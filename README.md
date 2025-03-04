@@ -59,7 +59,7 @@ print(fruitlist)
 ['appel', 'aardbei', 'banaan', 'framboos', 'kers', 'banaan', 'orange']
 ```
 
-**Split strin to list**
+**Split string to list - comma separator**
 ```python
 s = input ("Enter his/her name: ")
 
